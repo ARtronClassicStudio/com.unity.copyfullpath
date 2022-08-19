@@ -3,6 +3,9 @@ Copy the code or download the script and put it in the "Editor" folder.
 
 ![](img.PNG)
 
+```
+https://github.com/ARtronClassicStudio/Copy-Full-Path-Unity.git
+```
 
 ```C#
 using System.IO;
