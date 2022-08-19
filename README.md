@@ -4,7 +4,7 @@ Copy the code or download the script and put it in the "Editor" folder.
 ![](img.PNG)
 
 ```
-https://github.com/ARtronClassicStudio/Copy-Full-Path-Unity.git
+https://github.com/ARtronClassicStudio/com.unity.copyfullpath.git
 ```
 
 ```C#
