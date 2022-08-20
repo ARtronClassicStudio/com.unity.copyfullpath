@@ -1,9 +1,9 @@
-# Copy Full Path Unity
-Copy the code or download the script and put it in the "Editor" folder.
+# Copy Full Path Unity 
 
 ![](img.PNG)
 
-```
+Copy the link and paste in Package Manager
+```c#
 https://github.com/ARtronClassicStudio/com.unity.copyfullpath.git
 ```
 
