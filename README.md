@@ -1,4 +1,4 @@
-# Copy Full Path Unity 
+# Copy Full Path Unity: 
 
 ![](img.PNG)
 
@@ -6,6 +6,7 @@ Copy the link and paste in Package Manager
 ```c#
 https://github.com/ARtronClassicStudio/com.unity.copyfullpath.git
 ```
+# Code Implementation:
 
 ```C#
 using System.IO;
